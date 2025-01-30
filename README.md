@@ -32,5 +32,5 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://beautiful-soup-4.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="bs4" width="40" height="40"/> </a>
-<a href="https://www.octoparse.com/" target="_blank" rel="noreferrer"> <img src="[https://www.octoparse.com/static/img/octoparse-logo.png](https://www.octoparse.com/_next/static/media/logo.e87773de.svg)" alt="octoparse" width="40" height="40"/> </a>
+
 </p>
